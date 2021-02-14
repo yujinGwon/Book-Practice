@@ -10,6 +10,7 @@ venv.bak/
 #Pycharm
 .idea/
 migrations/
+_media/
 
 #Django stuff:
 *.log
